@@ -614,4 +614,3 @@ Potential future enhancements include:
 
 ---
 
-*Developed as a practical DevOps and Kubernetes portfolio project.*
